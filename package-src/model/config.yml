@@ -14,13 +14,13 @@ features:
   - Total_Amt_Chng_Q4_Q1
   - Total_Relationship_Count
   - Total_Revolving_Bal
-  - Total_Ct_Chng_Q4_Q1
   - Total_Trans_Ct
   - Total_Trans_Amt
   - Months_Inactive_12_mon
   - Contacts_Count_12_mon
 
 temp_features:
+ - Total_Ct_Chng_Q4_Q1
  - Gender
  - Dependent_count
  - Education_Level
